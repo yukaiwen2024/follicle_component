@@ -1,4 +1,3 @@
-"""Component Foot Banking 02 module"""
 import ast
 
 import pymel.core as pm
